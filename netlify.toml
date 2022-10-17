@@ -2,6 +2,6 @@
   incoming-hooks = ["Contentful"]
 
 [template.environment]
-  CONTENTFUL_SPACE_ID= py3grjtw5y7d
-  CONTENTFUL_ACCESS_TOKEN= MDmFFni38Kl8RlHXHyi3ijrNatc3bKNN_zYRSrfKjcs
-  CONTENTFUL_PREVIEW_ACCESS_TOKEN = d4M1iV9fSsYyo4yLMjMPtoNrdDzW5VuVfaxqNv5pYZ8ontentful.com
+  CONTENTFUL_SPACE_ID= 'py3grjtw5y7d'
+  CONTENTFUL_ACCESS_TOKEN= 'MDmFFni38Kl8RlHXHyi3ijrNatc3bKNN_zYRSrfKjcs'
+  CONTENTFUL_PREVIEW_ACCESS_TOKEN = 'd4M1iV9fSsYyo4yLMjMPtoNrdDzW5VuVfaxqNv5pYZ8ontentful.com'
